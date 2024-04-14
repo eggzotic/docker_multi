@@ -10,4 +10,6 @@ Note that the `--push` is necessary as it seems *not* possible to `--load` the m
 
 To exit (stop) the running container, run this from the container shell (Exec): `touch /tmp/done`
 
+Sample pre-built image of this at https://hub.docker.com/r/richardexaba/multi-platform-basic
+
 Richard.
